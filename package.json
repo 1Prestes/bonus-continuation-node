@@ -1,5 +1,5 @@
 {
-  "name": "primeiro-projeto-node",
+  "name": "bonus-continuation-node",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,6 +12,7 @@
     "date-fns": "^2.22.1",
     "express": "^4.17.1",
     "pg": "^8.6.0",
+    "reflect-metadata": "^0.1.13",
     "ts-node-dev": "^1.1.6",
     "typeorm": "^0.2.32",
     "uuidv4": "^6.2.8"
